@@ -23,7 +23,7 @@ Fig. represents our proposed system architecture. Here, In First phase I have us
 You can download RAVDESS dataset from this link:
 https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
 
-You can download Tess dataset from this link:
+You can download TESS dataset from this link:
 https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess
 
 # Filename identifiers
