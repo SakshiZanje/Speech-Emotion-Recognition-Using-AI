@@ -16,6 +16,12 @@ Two datasets used here are:
 2. TESS (Toronto Emotional Speech Set)
 2800 files from TESS. A set of 200 target words were spoken in the carrier phrase "Say the word _' by two actresses (aged 26 and 64 years) and recordings were made of the set portraying each of seven emotions (anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral). There are 2800 stimuli in total. Two actresses were recruited from the Toronto area. Both actresses speak English as their first language, are university educated, and have musical training. Audiometric testing indicated that both actresses have thresholds within the normal range.
 
+You can download RAVDESS dataset from this link:
+https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
+
+You can download Tess dataset from this link:
+https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess
+
 Filename identifiers
 Modality (01 = full-AV, 02 = video-only, 03 = audio-only).
 Vocal channel (01 = speech, 02 = song).
